@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="gamelibrary" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bceabfb-b652-4add-b5ff-a3fb038f27a0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="jsf" />
+        <option value="Jspx File" />
+        <option value="JavaScript File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2WIEJDtJ0VqiRqaeJ8tm45TCy6z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kkk123/Desktop/gamelibrary&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\booksearch\src\main\resources" />
+      <recent name="D:\JavaProjects\booksearch\src\main\webapp" />
+      <recent name="D:\JavaProjects\booksearch\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="booksearch.service.user.implementations" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="booksearch.model.attributesholder.implementation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10">
+    <configuration name="CustomUserLoginServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="booksearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gamelibrary.service.user.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="booksearch.service.user.implementations" />
+      <option name="MAIN_CLASS_NAME" value="gamelibrary.service.user.implementations.CustomUserLoginServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomUserLoginServiceTest.givenUserExists_whenLogin_thenReturnLoginResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="booksearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gamelibrary.service.user.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="booksearch.service.user.implementations" />
+      <option name="MAIN_CLASS_NAME" value="gamelibrary.service.user.implementations.CustomUserLoginServiceTest" />
+      <option name="METHOD_NAME" value="givenUserExists_whenLogin_thenReturnLoginResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomUserRegisterServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="booksearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gamelibrary.service.user.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="booksearch.service.user.implementations" />
+      <option name="MAIN_CLASS_NAME" value="gamelibrary.service.user.implementations.CustomUserRegisterServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomUserRegisterServiceTest.givenValidUser_whenRegister_thenReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="booksearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gamelibrary.service.user.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="booksearch.service.user.implementations" />
+      <option name="MAIN_CLASS_NAME" value="gamelibrary.service.user.implementations.CustomUserRegisterServiceTest" />
+      <option name="METHOD_NAME" value="givenValidUser_whenRegister_thenReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/booksearch_war_exploded/profile" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="gamelibrary">
+          <settings>
+            <option name="CONTEXT_PATH" value="/gamelibrary" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="502907fb-a567-4847-9542-2b56edb20e17" />
+        <option name="HTTPS_PORT" value="8081" />
+        <option name="PRESERVE_SESSIONS" value="true" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55323" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="bookservice:war" />
+          <artifact name="booksearch:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CustomUserLoginServiceTest" />
+      <item itemvalue="JUnit.CustomUserLoginServiceTest.givenUserExists_whenLogin_thenReturnLoginResult" />
+      <item itemvalue="JUnit.CustomUserRegisterServiceTest" />
+      <item itemvalue="JUnit.CustomUserRegisterServiceTest.givenValidUser_whenRegister_thenReturn" />
+      <item itemvalue="Tomcat Server.Tomcat 10" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomUserRegisterServiceTest" />
+        <item itemvalue="JUnit.CustomUserRegisterServiceTest.givenValidUser_whenRegister_thenReturn" />
+        <item itemvalue="JUnit.CustomUserLoginServiceTest.givenUserExists_whenLogin_thenReturnLoginResult" />
+        <item itemvalue="JUnit.CustomUserLoginServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bceabfb-b652-4add-b5ff-a3fb038f27a0" name="Changes" comment="" />
+      <created>1696411622035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696411622035</updated>
+      <workItem from="1696411624821" duration="481000" />
+      <workItem from="1696412141182" duration="4144000" />
+      <workItem from="1696514295102" duration="1571000" />
+      <workItem from="1696517063492" duration="7865000" />
+      <workItem from="1696875249065" duration="3740000" />
+      <workItem from="1697121519749" duration="6305000" />
+      <workItem from="1697472470773" duration="3897000" />
+      <workItem from="1697488285704" duration="2211000" />
+      <workItem from="1697574980606" duration="2601000" />
+      <workItem from="1697661620937" duration="1948000" />
+      <workItem from="1697703476717" duration="9000" />
+      <workItem from="1697729197699" duration="3976000" />
+      <workItem from="1697824860439" duration="933000" />
+      <workItem from="1697878611575" duration="738000" />
+      <workItem from="1697918594590" duration="4545000" />
+      <workItem from="1698046938715" duration="3963000" />
+      <workItem from="1698500150111" duration="126000" />
+      <workItem from="1698527622397" duration="18000" />
+      <workItem from="1698529062785" duration="48000" />
+      <workItem from="1698864136725" duration="5863000" />
+      <workItem from="1698923780160" duration="2625000" />
+      <workItem from="1698938269449" duration="6915000" />
+      <workItem from="1699041497147" duration="5785000" />
+      <workItem from="1699204714271" duration="598000" />
+      <workItem from="1699288274710" duration="7622000" />
+      <workItem from="1699299068728" duration="7685000" />
+      <workItem from="1699638044788" duration="7226000" />
+      <workItem from="1699705414689" duration="5438000" />
+      <workItem from="1699906073038" duration="3662000" />
+      <workItem from="1699956035464" duration="2540000" />
+      <workItem from="1699966387783" duration="829000" />
+      <workItem from="1699967605059" duration="3205000" />
+      <workItem from="1699972062827" duration="3681000" />
+      <workItem from="1700036752111" duration="1560000" />
+      <workItem from="1700044047010" duration="1056000" />
+      <workItem from="1700143441166" duration="632000" />
+      <workItem from="1700332734550" duration="937000" />
+      <workItem from="1700333847869" duration="7975000" />
+      <workItem from="1700405865076" duration="5255000" />
+      <workItem from="1700411326146" duration="7372000" />
+      <workItem from="1700461191189" duration="1941000" />
+      <workItem from="1700466748489" duration="1536000" />
+      <workItem from="1700471574737" duration="358000" />
+      <workItem from="1700472515688" duration="1103000" />
+      <workItem from="1700571691637" duration="933000" />
+      <workItem from="1700572664735" duration="1569000" />
+      <workItem from="1700745560366" duration="1111000" />
+      <workItem from="1700836074479" duration="4281000" />
+      <workItem from="1701070375951" duration="2142000" />
+      <workItem from="1701106416594" duration="724000" />
+      <workItem from="1701156306061" duration="556000" />
+      <workItem from="1701157305778" duration="151000" />
+      <workItem from="1701340348457" duration="2834000" />
+      <workItem from="1701354725184" duration="39000" />
+      <workItem from="1701988404224" duration="181000" />
+      <workItem from="1701988606153" duration="3535000" />
+      <workItem from="1701993240474" duration="2000" />
+      <workItem from="1702633955622" duration="2323000" />
+      <workItem from="1702636296576" duration="193000" />
+      <workItem from="1702636607907" duration="125000" />
+      <workItem from="1702636744896" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
